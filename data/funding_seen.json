@@ -1,3 +1,490 @@
 {
-  "sites": {}
+  "sites": {},
+  "tia": {
+    "calls": {
+      "https://www.tia.org.za/funding-solutions/": {
+        "title": "How to apply for funding",
+        "url": "https://www.tia.org.za/funding-solutions/"
+      },
+      "https://www.tia.org.za/who-we-are/": {
+        "title": "Who we are",
+        "url": "https://www.tia.org.za/who-we-are/"
+      },
+      "https://www.tia.org.za/who-we-are/our-mandate/": {
+        "title": "Our mandate",
+        "url": "https://www.tia.org.za/who-we-are/our-mandate/"
+      },
+      "https://www.tia.org.za/who-we-are/vision-mission/": {
+        "title": "Vision & mission",
+        "url": "https://www.tia.org.za/who-we-are/vision-mission/"
+      },
+      "https://www.tia.org.za/who-we-are/our-values/": {
+        "title": "Our values",
+        "url": "https://www.tia.org.za/who-we-are/our-values/"
+      },
+      "https://www.tia.org.za/strategic-role/": {
+        "title": "Strategic role",
+        "url": "https://www.tia.org.za/strategic-role/"
+      },
+      "https://www.tia.org.za/our-board/": {
+        "title": "Our board",
+        "url": "https://www.tia.org.za/our-board/"
+      },
+      "https://www.tia.org.za/ex-co/": {
+        "title": "Executive committee",
+        "url": "https://www.tia.org.za/ex-co/"
+      },
+      "https://www.tia.org.za/tia-organogram/": {
+        "title": "TIA organogram",
+        "url": "https://www.tia.org.za/tia-organogram/"
+      },
+      "https://www.tia.org.za/success-stories/": {
+        "title": "Our Success Stories",
+        "url": "https://www.tia.org.za/success-stories/"
+      },
+      "https://www.tia.org.za/who-we-fund/": {
+        "title": "Who we fund",
+        "url": "https://www.tia.org.za/who-we-fund/"
+      },
+      "https://www.tia.org.za/funding-criteria/": {
+        "title": "What we fund",
+        "url": "https://www.tia.org.za/funding-criteria/"
+      },
+      "https://www.tia.org.za/funding-instruments/": {
+        "title": "Funding solutions",
+        "url": "https://www.tia.org.za/funding-instruments/"
+      },
+      "https://www.tia.org.za/application-process/": {
+        "title": "Application process",
+        "url": "https://www.tia.org.za/application-process/"
+      },
+      "https://www.tia.org.za/application-checklist/": {
+        "title": "Application checklist",
+        "url": "https://www.tia.org.za/application-checklist/"
+      },
+      "https://www.tia.org.za/how-to-apply/": {
+        "title": "How to apply",
+        "url": "https://www.tia.org.za/how-to-apply/"
+      },
+      "https://www.tia.org.za/sector-funding-overview/": {
+        "title": "Industries we fund",
+        "url": "https://www.tia.org.za/sector-funding-overview/"
+      },
+      "https://www.tia.org.za/sectors/": {
+        "title": "Advanced Manufacturing​",
+        "url": "https://www.tia.org.za/sectors/"
+      },
+      "https://www.tia.org.za/overview/": {
+        "title": "Innovation support",
+        "url": "https://www.tia.org.za/overview/"
+      },
+      "https://www.tia.org.za/technology-platforms/": {
+        "title": "Technology Platforms",
+        "url": "https://www.tia.org.za/technology-platforms/"
+      },
+      "https://www.tia.org.za/technology-platforms/african-medicines-innovations-and-technology-development-platform/": {
+        "title": "African Medicines Innovations and Technology Development Platform",
+        "url": "https://www.tia.org.za/technology-platforms/african-medicines-innovations-and-technology-development-platform/"
+      },
+      "https://www.tia.org.za/technology-platforms/kwazulu-natal-research-innovation-and-sequencing-platform/": {
+        "title": "KwaZulu-Natal Research Innovation and Sequencing Platform",
+        "url": "https://www.tia.org.za/technology-platforms/kwazulu-natal-research-innovation-and-sequencing-platform/"
+      },
+      "https://www.tia.org.za/technology-platforms/national-metabolomics-platform/": {
+        "title": "National Metabolomics Platform",
+        "url": "https://www.tia.org.za/technology-platforms/national-metabolomics-platform/"
+      },
+      "https://www.tia.org.za/technology-platforms/centre-for-proteomic-and-genomic-research/": {
+        "title": "Centre for Proteomic and Genomic Research",
+        "url": "https://www.tia.org.za/technology-platforms/centre-for-proteomic-and-genomic-research/"
+      },
+      "https://www.tia.org.za/technology-platforms/holistic-drug-discovery-and-development-h3d-centre/": {
+        "title": "Holistic Drug Discovery and Development (H3D) Centre",
+        "url": "https://www.tia.org.za/technology-platforms/holistic-drug-discovery-and-development-h3d-centre/"
+      },
+      "https://www.tia.org.za/technology-platforms/cape-universities-body-imaging-centre-cubic/": {
+        "title": "Cape Universities Body Imaging Centre",
+        "url": "https://www.tia.org.za/technology-platforms/cape-universities-body-imaging-centre-cubic/"
+      },
+      "https://www.tia.org.za/technology-platforms/tia-bioprocessing-platform/": {
+        "title": "TIA Bioprocessing Platform",
+        "url": "https://www.tia.org.za/technology-platforms/tia-bioprocessing-platform/"
+      },
+      "https://www.tia.org.za/technology-platforms/biosafety/": {
+        "title": "Biosafety South Africa",
+        "url": "https://www.tia.org.za/technology-platforms/biosafety/"
+      },
+      "https://www.tia.org.za/programmes/": {
+        "title": "Technology Stations",
+        "url": "https://www.tia.org.za/programmes/"
+      },
+      "https://www.tia.org.za/innovation-for-inclusive-development/": {
+        "title": "Innovation for Inclusive Development",
+        "url": "https://www.tia.org.za/innovation-for-inclusive-development/"
+      },
+      "https://www.tia.org.za/innovation-skills-development/": {
+        "title": "Innovation Skills Development",
+        "url": "https://www.tia.org.za/innovation-skills-development/"
+      },
+      "https://www.tia.org.za/clusters/": {
+        "title": "Technology Clusters",
+        "url": "https://www.tia.org.za/clusters/"
+      },
+      "https://www.tia.org.za/annual-reports/": {
+        "title": "Annual Reports",
+        "url": "https://www.tia.org.za/annual-reports/"
+      },
+      "https://www.tia.org.za/annual-performance-plans/": {
+        "title": "Annual Performance Plans",
+        "url": "https://www.tia.org.za/annual-performance-plans/"
+      },
+      "https://www.tia.org.za/newsletters/": {
+        "title": "Newsletters",
+        "url": "https://www.tia.org.za/newsletters/"
+      },
+      "https://www.tia.org.za/brochures/": {
+        "title": "Brochures",
+        "url": "https://www.tia.org.za/brochures/"
+      },
+      "https://www.tia.org.za/partnerships-and-collaborations/": {
+        "title": "Partnerships",
+        "url": "https://www.tia.org.za/partnerships-and-collaborations/"
+      },
+      "https://www.tia.org.za/customer-relationship-management/": {
+        "title": "CRM (Complaints & Enquiries)",
+        "url": "https://www.tia.org.za/customer-relationship-management/"
+      },
+      "https://www.tia.org.za/customer-compliments/": {
+        "title": "Customer Compliments",
+        "url": "https://www.tia.org.za/customer-compliments/"
+      },
+      "https://www.tia.org.za/investment-appeals/": {
+        "title": "Investment Appeals",
+        "url": "https://www.tia.org.za/investment-appeals/"
+      },
+      "https://www.tia.org.za/applications-and-syste-support/": {
+        "title": "Applications and System Support",
+        "url": "https://www.tia.org.za/applications-and-syste-support/"
+      },
+      "tel:0800 111 503": {
+        "title": "0800 111 503",
+        "url": "tel:0800 111 503"
+      },
+      "https://www.tia.org.za": {
+        "title": "Technology Innovation Agency",
+        "url": "https://www.tia.org.za"
+      },
+      "https://www.tia.org.za/call-for-proposals-space-innovation-initiative/": {
+        "title": "Call for Proposals – Space Innovation Initiative",
+        "url": "https://www.tia.org.za/call-for-proposals-space-innovation-initiative/"
+      },
+      "https://www.tia.org.za/external-experts/": {
+        "title": "TIA Invitation for Call for Expression to Join External Expert Database",
+        "url": "https://www.tia.org.za/external-experts/"
+      },
+      "https://www.tia.org.za/2026/09/": {
+        "title": "September 2026",
+        "url": "https://www.tia.org.za/2026/09/"
+      },
+      "https://www.tia.org.za/2026/08/": {
+        "title": "August 2026",
+        "url": "https://www.tia.org.za/2026/08/"
+      },
+      "https://www.tia.org.za/2026/07/": {
+        "title": "July 2026",
+        "url": "https://www.tia.org.za/2026/07/"
+      },
+      "https://www.tia.org.za/2026/06/": {
+        "title": "June 2026",
+        "url": "https://www.tia.org.za/2026/06/"
+      },
+      "https://www.tia.org.za/2026/03/": {
+        "title": "March 2026",
+        "url": "https://www.tia.org.za/2026/03/"
+      },
+      "https://www.tia.org.za/2026/02/": {
+        "title": "February 2026",
+        "url": "https://www.tia.org.za/2026/02/"
+      },
+      "https://www.tia.org.za/2026/01/": {
+        "title": "January 2026",
+        "url": "https://www.tia.org.za/2026/01/"
+      },
+      "https://www.tia.org.za/2025/11/": {
+        "title": "November 2025",
+        "url": "https://www.tia.org.za/2025/11/"
+      },
+      "https://www.tia.org.za/2025/10/": {
+        "title": "October 2025",
+        "url": "https://www.tia.org.za/2025/10/"
+      },
+      "https://www.tia.org.za/2025/09/": {
+        "title": "September 2025",
+        "url": "https://www.tia.org.za/2025/09/"
+      },
+      "https://www.tia.org.za/2025/07/": {
+        "title": "July 2025",
+        "url": "https://www.tia.org.za/2025/07/"
+      },
+      "https://www.tia.org.za/2025/06/": {
+        "title": "June 2025",
+        "url": "https://www.tia.org.za/2025/06/"
+      },
+      "https://www.tia.org.za/2025/05/": {
+        "title": "May 2025",
+        "url": "https://www.tia.org.za/2025/05/"
+      },
+      "https://www.tia.org.za/2025/04/": {
+        "title": "April 2025",
+        "url": "https://www.tia.org.za/2025/04/"
+      },
+      "https://www.tia.org.za/2025/02/": {
+        "title": "February 2025",
+        "url": "https://www.tia.org.za/2025/02/"
+      },
+      "https://www.tia.org.za/2025/01/": {
+        "title": "January 2025",
+        "url": "https://www.tia.org.za/2025/01/"
+      },
+      "https://www.tia.org.za/2024/09/": {
+        "title": "September 2024",
+        "url": "https://www.tia.org.za/2024/09/"
+      },
+      "https://www.tia.org.za/2024/07/": {
+        "title": "July 2024",
+        "url": "https://www.tia.org.za/2024/07/"
+      },
+      "https://www.tia.org.za/2024/05/": {
+        "title": "May 2024",
+        "url": "https://www.tia.org.za/2024/05/"
+      },
+      "https://www.tia.org.za/2024/04/": {
+        "title": "April 2024",
+        "url": "https://www.tia.org.za/2024/04/"
+      },
+      "https://www.tia.org.za/2024/03/": {
+        "title": "March 2024",
+        "url": "https://www.tia.org.za/2024/03/"
+      },
+      "https://www.tia.org.za/2023/12/": {
+        "title": "December 2023",
+        "url": "https://www.tia.org.za/2023/12/"
+      },
+      "https://www.tia.org.za/2023/11/": {
+        "title": "November 2023",
+        "url": "https://www.tia.org.za/2023/11/"
+      },
+      "https://www.tia.org.za/2023/09/": {
+        "title": "September 2023",
+        "url": "https://www.tia.org.za/2023/09/"
+      },
+      "https://www.tia.org.za/2023/07/": {
+        "title": "July 2023",
+        "url": "https://www.tia.org.za/2023/07/"
+      },
+      "https://www.tia.org.za/2023/06/": {
+        "title": "June 2023",
+        "url": "https://www.tia.org.za/2023/06/"
+      },
+      "https://www.tia.org.za/2023/04/": {
+        "title": "April 2023",
+        "url": "https://www.tia.org.za/2023/04/"
+      },
+      "https://www.tia.org.za/2023/02/": {
+        "title": "February 2023",
+        "url": "https://www.tia.org.za/2023/02/"
+      },
+      "https://www.tia.org.za/2022/12/": {
+        "title": "December 2022",
+        "url": "https://www.tia.org.za/2022/12/"
+      },
+      "https://www.tia.org.za/2022/11/": {
+        "title": "November 2022",
+        "url": "https://www.tia.org.za/2022/11/"
+      },
+      "https://www.tia.org.za/2022/08/": {
+        "title": "August 2022",
+        "url": "https://www.tia.org.za/2022/08/"
+      },
+      "https://www.tia.org.za/2022/03/": {
+        "title": "March 2022",
+        "url": "https://www.tia.org.za/2022/03/"
+      },
+      "https://www.tia.org.za/2022/02/": {
+        "title": "February 2022",
+        "url": "https://www.tia.org.za/2022/02/"
+      },
+      "https://www.tia.org.za/2021/12/": {
+        "title": "December 2021",
+        "url": "https://www.tia.org.za/2021/12/"
+      },
+      "https://www.tia.org.za/2021/10/": {
+        "title": "October 2021",
+        "url": "https://www.tia.org.za/2021/10/"
+      },
+      "https://www.tia.org.za/2021/09/": {
+        "title": "September 2021",
+        "url": "https://www.tia.org.za/2021/09/"
+      },
+      "https://www.tia.org.za/2021/07/": {
+        "title": "July 2021",
+        "url": "https://www.tia.org.za/2021/07/"
+      },
+      "https://www.tia.org.za/2021/06/": {
+        "title": "June 2021",
+        "url": "https://www.tia.org.za/2021/06/"
+      },
+      "https://www.tia.org.za/2021/05/": {
+        "title": "May 2021",
+        "url": "https://www.tia.org.za/2021/05/"
+      },
+      "https://www.tia.org.za/2021/03/": {
+        "title": "March 2021",
+        "url": "https://www.tia.org.za/2021/03/"
+      },
+      "https://www.tia.org.za/2021/02/": {
+        "title": "February 2021",
+        "url": "https://www.tia.org.za/2021/02/"
+      },
+      "https://www.tia.org.za/2020/11/": {
+        "title": "November 2020",
+        "url": "https://www.tia.org.za/2020/11/"
+      },
+      "https://www.tia.org.za/2020/10/": {
+        "title": "October 2020",
+        "url": "https://www.tia.org.za/2020/10/"
+      },
+      "https://www.tia.org.za/2020/08/": {
+        "title": "August 2020",
+        "url": "https://www.tia.org.za/2020/08/"
+      },
+      "https://www.tia.org.za/2020/07/": {
+        "title": "July 2020",
+        "url": "https://www.tia.org.za/2020/07/"
+      },
+      "https://www.tia.org.za/2020/06/": {
+        "title": "June 2020",
+        "url": "https://www.tia.org.za/2020/06/"
+      },
+      "https://www.tia.org.za/2020/05/": {
+        "title": "May 2020",
+        "url": "https://www.tia.org.za/2020/05/"
+      },
+      "https://www.tia.org.za/2020/01/": {
+        "title": "January 2020",
+        "url": "https://www.tia.org.za/2020/01/"
+      },
+      "https://www.tia.org.za/2019/11/": {
+        "title": "November 2019",
+        "url": "https://www.tia.org.za/2019/11/"
+      },
+      "https://www.tia.org.za/2019/10/": {
+        "title": "October 2019",
+        "url": "https://www.tia.org.za/2019/10/"
+      },
+      "https://www.tia.org.za/2019/07/": {
+        "title": "July 2019",
+        "url": "https://www.tia.org.za/2019/07/"
+      },
+      "https://www.tia.org.za/2019/06/": {
+        "title": "June 2019",
+        "url": "https://www.tia.org.za/2019/06/"
+      },
+      "https://www.tia.org.za/2019/03/": {
+        "title": "March 2019",
+        "url": "https://www.tia.org.za/2019/03/"
+      },
+      "https://www.tia.org.za/2019/01/": {
+        "title": "January 2019",
+        "url": "https://www.tia.org.za/2019/01/"
+      },
+      "https://www.tia.org.za/2018/11/": {
+        "title": "November 2018",
+        "url": "https://www.tia.org.za/2018/11/"
+      },
+      "https://www.tia.org.za/2018/08/": {
+        "title": "August 2018",
+        "url": "https://www.tia.org.za/2018/08/"
+      },
+      "https://www.tia.org.za/2018/07/": {
+        "title": "July 2018",
+        "url": "https://www.tia.org.za/2018/07/"
+      },
+      "https://www.tia.org.za/2018/06/": {
+        "title": "June 2018",
+        "url": "https://www.tia.org.za/2018/06/"
+      },
+      "https://www.tia.org.za/2017/12/": {
+        "title": "December 2017",
+        "url": "https://www.tia.org.za/2017/12/"
+      },
+      "https://www.tia.org.za/category/success-stories/advanced-manufacturing/": {
+        "title": "Advanced Manufacturing",
+        "url": "https://www.tia.org.za/category/success-stories/advanced-manufacturing/"
+      },
+      "https://www.tia.org.za/category/success-stories/agriculture/": {
+        "title": "Agriculture",
+        "url": "https://www.tia.org.za/category/success-stories/agriculture/"
+      },
+      "https://www.tia.org.za/category/awarded-tenders/": {
+        "title": "Awarded Tenders",
+        "url": "https://www.tia.org.za/category/awarded-tenders/"
+      },
+      "https://www.tia.org.za/category/cancelled-tenders/": {
+        "title": "Cancelled tenders",
+        "url": "https://www.tia.org.za/category/cancelled-tenders/"
+      },
+      "https://www.tia.org.za/category/success-stories/industrial-biotech/": {
+        "title": "Industrial Biotech",
+        "url": "https://www.tia.org.za/category/success-stories/industrial-biotech/"
+      },
+      "https://www.tia.org.za/category/success-stories/natural-resources/": {
+        "title": "Natural Resources",
+        "url": "https://www.tia.org.za/category/success-stories/natural-resources/"
+      },
+      "https://www.tia.org.za/category/press-releases/": {
+        "title": "Press releases",
+        "url": "https://www.tia.org.za/category/press-releases/"
+      },
+      "https://www.tia.org.za/category/proposals/": {
+        "title": "Proposals",
+        "url": "https://www.tia.org.za/category/proposals/"
+      },
+      "https://www.tia.org.za/category/success-stories/": {
+        "title": "Success stories",
+        "url": "https://www.tia.org.za/category/success-stories/"
+      },
+      "https://www.tia.org.za/category/uncategorized/": {
+        "title": "Uncategorized",
+        "url": "https://www.tia.org.za/category/uncategorized/"
+      },
+      "https://www.tia.org.za/contact-us/": {
+        "title": "Contact Us",
+        "url": "https://www.tia.org.za/contact-us/"
+      },
+      "https://www.tia.org.za/events/": {
+        "title": "Upcoming events",
+        "url": "https://www.tia.org.za/events/"
+      },
+      "https://www.tia.org.za/past-events/": {
+        "title": "Past events",
+        "url": "https://www.tia.org.za/past-events/"
+      },
+      "https://www.tia.org.za/category/tenders/": {
+        "title": "Open Tenders",
+        "url": "https://www.tia.org.za/category/tenders/"
+      }
+    },
+    "page_hash": "66fc888b0521decc682f787faef43123b0e1568b2ab130aba8c30663e152af5a"
+  },
+  "multichoice": {
+    "content_hash": "b3cd6cda967da36d8eaa71aa8a381d41fb1ef17332e59ffc4320ec1aeca5e33f",
+    "text": "00% CHANGE COUNTRY Angola Botswana Eswatini Ethiopia Ghana Kenya Mauritius Malawi Mozambique Namibia Nigeria Tanzania Uganda South Africa Zambia Zimbabwe About Us Our People Companies & Brands Enriching Lives Africa's Storytellers Investors Media Enriching Lives We’re committed to uplifting, supporting, and investing in the communities in which we operate Creating Opportunities Catapulting the Youth Connecting and Creating Value Our Campaigns Enterprise Development MultiChoice’s Innovation Fund creates opportunities for innovators in the tech, media and film industries, to bring to life ideas that will lead to breakthrough moments for their businesses  We provide funding as well as mentorship and skills development for start-ups and established SMMEs  Find out more about our existing beneficiaries and where to submit business proposals More about the MultiChoice Innovation Fund DStv Agencies and Accredited Installers Thousands of jobs are created through our DStv Accredited Installer network  Decoder manufacturing All our decoders are manufactured locally and through high level manufacturing and assembly chains, we’ve stimulated the decoder manufacturing industry and as well as other related businesses such as parts suppliers, carton printers and distribution and logistics providers  Africa Accelerator The MultiChoice accelerator provides entrepreneurship skills and exposure to a network of global investors, creating opportunities for businesses to scale up and expand across the continent and the world  The programme specifically targets start-ups and small businesses in the technology sectors of health tech, agri-tech, fintech, edu-tech, the circular economy, and creative industries",
+    "links": [
+      {
+        "title": "More about the MultiChoice Innovation Fund",
+        "url": "https://www.multichoice.com/innovation-fund.php"
+      }
+    ]
+  }
 }
