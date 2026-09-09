@@ -1,0 +1,45 @@
+name: Monitor TIA and MultiChoice Funding
+
+on:
+  schedule:
+    # Daily at 06:00 UTC = 08:00 South Africa time (SAST).
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check TIA and MultiChoice
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python funding_monitor.py
+
+      - name: Commit updated monitoring state
+        run: |
+          if git diff --quiet; then
+            echo "No state changes."
+            exit 0
+          fi
+          git config user.name "funding-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/funding_seen.json
+          git commit -m "Update funding monitor state"
+          git push
