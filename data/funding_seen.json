@@ -166,6 +166,10 @@
         "title": "Applications and System Support",
         "url": "https://www.tia.org.za/applications-and-syste-support/"
       },
+      "https://www.tia.org.za/rate-our-service/": {
+        "title": "Rate our Service",
+        "url": "https://www.tia.org.za/rate-our-service/"
+      },
       "tel:0800 111 503": {
         "title": "0800 111 503",
         "url": "tel:0800 111 503"
@@ -483,7 +487,7 @@
         "url": "https://www.tia.org.za/category/tenders/"
       }
     },
-    "page_hash": "ca7762ec011f5521e87577f09573ae903a552ff827176306c76a5dec1c3b915e"
+    "page_hash": "78090906de892c62b688f4c780f5686bee8b04043f08639d9b60768391480c25"
   },
   "multichoice": {
     "content_hash": "b3cd6cda967da36d8eaa71aa8a381d41fb1ef17332e59ffc4320ec1aeca5e33f",
