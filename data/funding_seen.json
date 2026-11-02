@@ -178,10 +178,6 @@
         "title": "Technology Innovation Agency",
         "url": "https://www.tia.org.za"
       },
-      "https://www.tia.org.za/call-for-proposals-living-labs-programme/": {
-        "title": "Call for Proposals – Living Labs Programme",
-        "url": "https://www.tia.org.za/call-for-proposals-living-labs-programme/"
-      },
       "https://www.tia.org.za/external-experts/": {
         "title": "TIA Invitation for Call for Expression to Join External Expert Database",
         "url": "https://www.tia.org.za/external-experts/"
@@ -483,7 +479,7 @@
         "url": "https://www.tia.org.za/category/tenders/"
       }
     },
-    "page_hash": "285c2cff0087a73cbef29cd7e4d108303e6f029bd35aaf308406565b889cf04d"
+    "page_hash": "a9017a021ecc500c9be2892e3d537399bfc77a3ffd850797a8046e18af17eb72"
   },
   "multichoice": {
     "content_hash": "b3cd6cda967da36d8eaa71aa8a381d41fb1ef17332e59ffc4320ec1aeca5e33f",
