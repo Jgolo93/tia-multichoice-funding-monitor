@@ -178,9 +178,17 @@
         "title": "Technology Innovation Agency",
         "url": "https://www.tia.org.za"
       },
+      "https://www.tia.org.za/call-for-proposals-living-labs-programme-ehlanzeni-district-municipality-mpumalanga/": {
+        "title": "Call for Proposals – Living Labs Programme Ehlanzeni District Municipality, Mpumalanga",
+        "url": "https://www.tia.org.za/call-for-proposals-living-labs-programme-ehlanzeni-district-municipality-mpumalanga/"
+      },
       "https://www.tia.org.za/external-experts/": {
         "title": "TIA Invitation for Call for Expression to Join External Expert Database",
         "url": "https://www.tia.org.za/external-experts/"
+      },
+      "https://www.tia.org.za/2026/11/": {
+        "title": "November 2026",
+        "url": "https://www.tia.org.za/2026/11/"
       },
       "https://www.tia.org.za/2026/10/": {
         "title": "October 2026",
@@ -479,7 +487,7 @@
         "url": "https://www.tia.org.za/category/tenders/"
       }
     },
-    "page_hash": "2f9748d0dc04243060ed5879ca6810c817eb0ed00c808a6f5c96c53e929530e6"
+    "page_hash": "bc25a7a96c41f36d99875f137f055fbaaef26ce321f5277bdf109aa9ba65b15b"
   },
   "multichoice": {
     "content_hash": "b3cd6cda967da36d8eaa71aa8a381d41fb1ef17332e59ffc4320ec1aeca5e33f",
