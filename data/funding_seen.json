@@ -178,6 +178,10 @@
         "title": "Technology Innovation Agency",
         "url": "https://www.tia.org.za"
       },
+      "https://www.tia.org.za/expression-of-interest-commercialisation-opportunity-mechanical-expander-technology/": {
+        "title": "Expression of Interest – Commercialisation Opportunity: Mechanical Expander Technology",
+        "url": "https://www.tia.org.za/expression-of-interest-commercialisation-opportunity-mechanical-expander-technology/"
+      },
       "https://www.tia.org.za/call-for-proposals-living-labs-programme-ehlanzeni-district-municipality-mpumalanga/": {
         "title": "Call for Proposals – Living Labs Programme Ehlanzeni District Municipality, Mpumalanga",
         "url": "https://www.tia.org.za/call-for-proposals-living-labs-programme-ehlanzeni-district-municipality-mpumalanga/"
@@ -487,7 +491,7 @@
         "url": "https://www.tia.org.za/category/tenders/"
       }
     },
-    "page_hash": "184adbc71bb53f7be8eee24d9508cbc3a490050c907578292f605fe445c2baab"
+    "page_hash": "adc110b57fe0a32035193d1f27ab9dfb162c505a1d515b83b2fba1c100c0916c"
   },
   "multichoice": {
     "content_hash": "b3cd6cda967da36d8eaa71aa8a381d41fb1ef17332e59ffc4320ec1aeca5e33f",
