@@ -202,10 +202,6 @@
         "title": "September 2026",
         "url": "https://www.tia.org.za/2026/09/"
       },
-      "https://www.tia.org.za/2026/08/": {
-        "title": "August 2026",
-        "url": "https://www.tia.org.za/2026/08/"
-      },
       "https://www.tia.org.za/2026/07/": {
         "title": "July 2026",
         "url": "https://www.tia.org.za/2026/07/"
@@ -491,7 +487,7 @@
         "url": "https://www.tia.org.za/category/tenders/"
       }
     },
-    "page_hash": "23483489715ddc9bae1f9691bda70e90af63f341e8b2907de5d0d5b5dafc9849"
+    "page_hash": "4e5bb9182856b88488883073b59a3d61a25a19982264ac093526ab87651255ea"
   },
   "multichoice": {
     "content_hash": "b3cd6cda967da36d8eaa71aa8a381d41fb1ef17332e59ffc4320ec1aeca5e33f",
